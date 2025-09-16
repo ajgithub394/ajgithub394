@@ -5,11 +5,7 @@ IIIT Pune 2026 Batch
 Aspiring Data Scientist
 
 
-I am currently working on : 
-Backend Development using Java
-Automation using n8n
-Data Science projects that predict better solutions
-Attempting to build a project that bridges the gap between software development and electronics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajgithub394&show_icons=true&theme=tokyonight)
 
 
 <!--
