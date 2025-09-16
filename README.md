@@ -5,9 +5,6 @@ IIIT Pune 2026 Batch
 Aspiring Data Scientist
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajgithub394&show_icons=true&theme=tokyonight)
-
-
 <!--
 **ajgithub394/ajgithub394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
