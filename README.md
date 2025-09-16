@@ -2,7 +2,8 @@
 
 Final-year BTech student majoring in ECE
 IIIT Pune 2026 Batch
-Aspiring Data Scientist
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajgithub394&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
